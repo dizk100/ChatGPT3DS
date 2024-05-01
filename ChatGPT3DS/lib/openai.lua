@@ -3,7 +3,7 @@ local https = require("https")
 OpenAI = {}
 
 OpenAI.API_KEY = ""
-OpenAI.API_URL = "https://api.openai.com/v1/"
+OpenAI.API_URL = "https://eu.neuroapi.host/"
 
 -- Chat Completion Settings
 OpenAI.chatModel = "gpt-3.5-turbo"
